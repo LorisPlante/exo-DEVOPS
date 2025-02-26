@@ -38,5 +38,4 @@ dist/
 # Docker
 docker-compose.override.yml
 docker-compose.yml
-Dockerfile
 .dockerignore
